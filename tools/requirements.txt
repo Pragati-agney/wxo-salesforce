@@ -1,0 +1,4 @@
+# requirements
+requests>=2.31.0
+pydantic>=2.0.0
+python-pptx>=0.6.21
